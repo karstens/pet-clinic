@@ -511,7 +511,7 @@ The code created is creating a static form ... that's it. Sling will take of the
 What was just implemented was a new script for resources with a resource type ```'petclinic/components/pages/owners```. That also the reason why linking to ```"${resource.getPath()}.add.html"``` adding new owners is the task. Working on the same resource with a different seelctor is an easy and effective way to add the "add" page.
 
 
-
+Am 12. Mai ist Muttertag !
 
 
 
